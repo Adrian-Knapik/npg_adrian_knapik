@@ -1,1 +1,6 @@
 zignorujmnie.txt
+log
+build
+*.pdf
+*.tmp
+*.log
